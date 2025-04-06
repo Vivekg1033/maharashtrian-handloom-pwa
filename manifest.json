@@ -1,0 +1,22 @@
+{
+    "name": "Maharashtrian Handloom & Textiles",
+    "short_name": "HandloomTextiles",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff8f0",
+    "theme_color": "#9e5c39",
+    "description": "Shop authentic Maharashtrian Paithani sarees, Himroo shawls, and Kolhapuri chappals.",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
